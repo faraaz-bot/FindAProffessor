@@ -1,0 +1,256 @@
+{
+  "Sheet1": [
+    {
+      "name": "Goetz Bramesfeld",
+      "research_areas": "applied aerodynamics with a focus on the design of small, uncrewed aerial vehicles and their flight performance and dynamics "
+    },
+    {
+      "name": "Emre Karatas",
+      "research_areas": "We conduct hands-on experimental research to better understand emissions from energy and transportation systems. Our research leads to improving alternative fuel technologies, reduced black carbon emissions from energy systems and advanced nanomaterial development. "
+    },
+    {
+      "name": "Reza Faieghi",
+      "research_areas": "Challenge: Despite recent technological advances, safety is of the utmost concern for the real-world deployment of autonomous vehicles. This safety needs to be mathematically proven, but no control algorithm can operate effectively without appropriate knowledge of the physical environment. As such, perception algorithms and artificial intelligence need to identify safe and unsafe zones, find vehicle trajectories and predict the upcoming actions of nearby vehicles and pedestrians.\n\nSolution: We are exploring real-time perception and control algorithms to enable collision-free motion control of autonomous vehicles on both the ground and in the air. We use a combination of ready-to- deploy software solutions in C++, PX4 and ROS, as well as new vehicle concepts tailored for specific applications, including morphing structures and thrust vectoring propulsion.\n\nImpact: Smarter autonomous vehicles are safer autonomous vehicles. Our work will contribute to the increased adoption of autonomous vehicle technology that is safe and sustainable, with vehicles that can better communicate and navigate the world, preventing collisions, creating robust transportation systems and increasing energy efficiency."
+    },
+    {
+      "name": "Bo Tan",
+      "research_areas": "Fabricate nano materials and its biomedical applications"
+    },
+    {
+      "name": "Lisa Landrum",
+      "research_areas": "Landrum’s research examines the history and theory of architecture, particularly in relation to theatrical arts and practices of democracy, as well as architectural agency, pedagogy, poetics, ethics and imagination."
+    },
+    {
+      "name": "Ali Tavallaei",
+      "research_areas": "My research objective is to address clinical needs in minimally invasive image guided procedures, through design and development of medical devices, imaging tools, and robotic solutions. "
+    },
+    {
+      "name": "Dafna Sussman",
+      "research_areas": "I lead research in biomedical engineering focused on diagnosing obstetric and gynecologic disorders like placental disorders, fetal abnormalities, and gynecologic cancers. Using medical imaging (MRI, ultrasound), Artificial Intelligence, and material engineering, my lab develops new tools and methods. We rigorously test these innovations for clinical viability, aiming for practical implementation to improve women's health and healthcare."
+    },
+    {
+      "name": "Michael Kolios",
+      "research_areas": "Dr. Michael Kolios conducts research that focuses on using sound waves to explore and understand the properties of cells and tissues. This helps in medical diagnostics, such as identifying cancer cells. His work aims to improve how we diagnose and monitor diseases using non-invasive ultrasound technologies."
+    },
+    {
+      "name": "Carl Kumaradas",
+      "research_areas": "My research is on ways to monitor and guide cancer treatments using nanoparticles and new medical imaging techniques. The research is often done at the idea/bench-top stage using computational modeling and controlled experimentation."
+    },
+    {
+      "name": "Bo Tan",
+      "research_areas": "Fabricate nanomaterial and its  biomedical applications"
+    },
+    {
+      "name": "Darius Rackus",
+      "research_areas": "My research focuses on developing miniature laboratories (“lab-on-a-chip”) using microfluidics to make measurements. We use these mini labs for applications in human health, including portable diagnostic tools, biomedical research, and even environmental health."
+    },
+    {
+      "name": "Stephen Waldman",
+      "research_areas": "Our research group focuses on the engineering of cartilage and bone for the repair and reconstruction of damaged tissues. Current projects are centred on the effect mechanical stimuli and metabolism to guide tissue growth and impart functional material properties."
+    },
+    {
+      "name": "April Khademi",
+      "research_areas": "I design and develop AI tools for medical imaging, which includes radiology and pathology images.  "
+    },
+    {
+      "name": "Virgilio Valente",
+      "research_areas": "The Wireless Sensing Lab (WiS Lab) specializes the development of miniaturized wireless sensors for chronic disease management. Our research activities include microsensor development, microelectronic circuit design and advanced microfabrication techniques. "
+    },
+    {
+      "name": "Sri Krishnan",
+      "research_areas": "AI in Healthcare and Wellbeing;  Audio and Biomedical Signal Processing; Digital Health; Explainable Machine Learning"
+    },
+    {
+      "name": "April Khademi",
+      "research_areas": "We design, develop and deploy artificial intelligence (AI) and machine learning (ML) algorithms for medical images.  This includes radiology and pathology images."
+    },
+    {
+      "name": "Farrokh Janabi-Sharifi",
+      "research_areas": "My research is on Intelligent Robotics and Mechatronics with the focus on modeling, estimation and control aspects for variety of applications including aerial, manufacturing, and medical systems. Our recent projects consist of  vision-based control of robots, planning and control of aerial robotic manipulation,  and modeling and control of continuum robots.  "
+    },
+    {
+      "name": "Scott Tsai",
+      "research_areas": "My research is focused on developing biomedical diagnostic and delivery technologies using microfluidics and lab-on-a-chip systems. Current projects in my laboratory include microfluidic all-biocompatible water-in-water droplets for cellular encapsulation and delivery applications, and microfluidically generated micro and nanobubbles for ultrasound imaging and targeted drug delivery. I am also interested in understanding fundamental fluid physics of microfluidic flows, with an emphasis on droplet and bubble generation."
+    },
+    {
+      "name": "UMBERTO BERARDI",
+      "research_areas": "My main research interests are related to the study of innovative solutions and new materials for improving the performance within the built environment and having more resilient urban energy systems. My works on integrating nanotechnologies into building energy systems focus on organic bio-PCMs, and on granular aerogels, but also on hybrid energy systems (hydrogen energy storages)."
+    },
+    {
+      "name": "Russell Richman",
+      "research_areas": "The study of the flow of energy & mass through, within, and around the building enclosure."
+    },
+    {
+      "name": "Jenn McArthur",
+      "research_areas": "The Smart Building Research Group's research focuses on applying hybrid physics/AI models and machine learning to decarbonize buildings. Our current projects span from individual equipment optimization through building and campus models up to urban energy modeling. To enable this, we are developing scalable Cognitive Digital Twins to span these deals."
+    },
+    {
+      "name": "ChungHyuk Lee",
+      "research_areas": "We make materials for electrochemical energy devices such as hydrogen fuel cells, water electrolyzers, and CO2 utilization. We try to understand how the materials function inside those devices using X-rays and computational modelling tools. Ultimately, we want to help realize clean energy devices in the real world!"
+    },
+    {
+      "name": "Hadis Zarrin",
+      "research_areas": "At TMU, Zarrin has established the Nanoengineering Laboratory for Energy and Environmental Technologies (NLEET) group to collaborate with diverse academic teams and industries and conduct the research and development of multifunctional nano-engineered materials towards different applications aligned with UN’s sustainable development goals (SDGs): clean energy storage and conversion systems (SDG#7 and 13), smart healthcare wearable and biosensors (SDG#3), sustainable coating and packaging materials (SDG#3 and SDG#12), and environmental technologies (SDG#6). "
+    },
+    {
+      "name": "Ehsan Behzadfar",
+      "research_areas": "Dr. Behzadfar combines experimentation with analytical and semi-analytical modeling to construct relationships between the structure-process-property of complex polymeric materials, such as multilayer polymers. "
+    },
+    {
+      "name": "Jinyuan Liu",
+      "research_areas": "My goals at TMU are 1) train future engineers with applied geotechnical research and 2) to help industry to address underground risks and challenges in infrastructure developments."
+    },
+    {
+      "name": "Medhat  Shehata ",
+      "research_areas": "Concrete durability, sustainability, deterioration modes, new materials and alternative supplementary cementing materials "
+    },
+    {
+      "name": "Said Easa",
+      "research_areas": "Planning, operation, and control of autonomous vehicles."
+    },
+    {
+      "name": "Songnian Li",
+      "research_areas": "Big geospatial data handling and analytics; 3D city modeling and urban digital twin; Human mobility modeling using multimodal data incl. geosocial media data, trajectory data, phone call data, etc."
+    },
+    {
+      "name": "Khaled Sennah",
+      "research_areas": "Dr. Khaled Sennah, a professor of Structural Engineering, specializes in bridge analysis, design, evaluation, rehabilitation, and testing. His research encompasses advanced composite materials for bridges and structures, structural dynamics, fabricated product certification and the design of steel, concrete, and timber structures. Notably, Sennah’s groundbreaking work demonstrated that glass fiber polymer (GFRP)bars and ultra-high-performance concrete (UHPC) in bridge decks and barriers, leading to cost savings and sustainable infrastructure. "
+    },
+    {
+      "name": "Saber Moradi",
+      "research_areas": "My research is related to the analysis, design, and performance-based assessment of structures. We develop innovative solutions using new structural systems and materials for protecting buildings and bridges from damage under natural hazards and extreme loading. This research leads to enhancing the resilience and sustainability of urban areas. "
+    },
+    {
+      "name": "Faezeh Ensan",
+      "research_areas": "1) Natural Language Processing based on neural models. 2) Automatic Question Answering across different domain, including biomedical texts. 3) Fair and non-biased generative language models."
+    },
+    {
+      "name": "Vadim Geurkov",
+      "research_areas": "Built-in self-test and self-repair of reconfigurable computing systems; digital and mixed-signal systems testing and fault tolerance; self-diagnosis of microprocessor based measurement instruments; error-control codes"
+    },
+    {
+      "name": "DEWEI (DAVID) XU",
+      "research_areas": "High efficiency high power density power electronic converters for electrical energy conversion. The main applications include renewable energy systems, electric vehicles, micro-grid and energy storage systems. "
+    },
+    {
+      "name": "Xavier Fernando",
+      "research_areas": "High speed wireless communications with massive connectivity to realize autonomous vehicles, augmented/virtual reality, and smart societies. Underground & aerial communications. Visible Light Communications. Optical networks for cloud computing.     "
+    },
+    {
+      "name": "Marco Antoniades",
+      "research_areas": "My research is on antennas and microwave components for wireless communications, biomedical devices and imaging,  space/satellite systems, radio-frequency identification, and wireless power transfer systems."
+    },
+    {
+      "name": "Reza Samavi",
+      "research_areas": "My research interests are at the intersection of information security and artificial intelligence (AI). Machine learning is at the core of modern AI, and my research focuses on Trustworthy machine learning with the objective of developing AI systems that are secure, transparent, and fair. This involves creating models that are robust against attacks, provide explainable outputs, and avoid bias to make fair decisions. The goal is to ensure reliability and build user trust in AI applications across various sectors."
+    },
+    {
+      "name": "Kourosh Zareinia",
+      "research_areas": "My research is in the following areas: •\tRobotics\t•\tHaptics\n•\tSurgical Robotic Systems\t•\tSmart Surgical Tool Design\n•\tTeleoperated Robotic Systems\t•\tForce/Tactile Feedback\n•\tHaptic-Enabled Telerobotics\t•\tRobot-Assisted Space Telemetry\n•\tMechatronics in Surgical Skill Assessment\t•\tHydraulic Robotic Manipulators\n•\tVirtual Fixtures in Telerobotic Systems\t•\tMechatronics in Medical Training\n•\tForce-Based Virtual Fixtures\t•\tLyapunov Stability Analysis\n•\tHaptic and Tactile Feedback\t•\tHaptic Hand-Controllers\n•\tMR-Compatible Robotic Systems\t•\tMicromanipulation\n•\tNonlinear Dynamic Systems\t•\tFilippov Solutions \n•\tStability of Dynamic Systems with Discontinuity Surfaces\t•\tPacket Loss and Delay in Telerobotic Systems\n•\tImage-Guided Robotic Systems\t•\tRobotic Systems for Rehabilitation\n•\tDynamic Modelling of Telerobotic Systems\t•\tForce Feedback\n"
+    },
+    {
+      "name": "Sajad Saeedi",
+      "research_areas": "I work on robotics and computer vision. I apply artificial intelligence and machine learning to solve problems in robotics and computer vision. I also use robotics and AI to solve real-world problems, such as disinfection, identifying micro-plastics in water, and mineral exploration."
+    },
+    {
+      "name": "Marcello Papini",
+      "research_areas": "Impacts of jets of small particles on surfaces can be used constructively to machine surfaces or to make them rougher or smoother.  In other situations, the damage the particles cause can be undesirable.  I model what happens to engineering surfaces when they are bombarded with such particles.  "
+    },
+    {
+      "name": "Seth Dworkin",
+      "research_areas": "I explore new sustainable energy technologies, with a focus on geothermal heat and cooling. I also study particle emissions from combustion, with applications in clean aviation."
+    },
+    {
+      "name": "Patrick Neumann",
+      "research_areas": "The Human Factors Engineering Lab specializes in developing models, tools, and methods that support the design of healthcare and supply chain systems that suit the needs of the humans in the system.  This leads to:  Better performance, fewer errors, lowers costs, and healthier sustainable systems."
+    },
+    {
+      "name": "Mohamad Jaber",
+      "research_areas": "Energy and Sustainable Supply Chains; Learning Curves: Theory, Modelling, and Applications"
+    },
+    {
+      "name": "Saman Amin",
+      "research_areas": "Supply Chain Management (SCM) is related to sending products from suppliers to manufacturers, retailers, and customers. I use mathematical models (optimization models) to solve SCM problems. Supplier selection, food SCM, and reverse logistics management are some topics in this field. "
+    },
+    {
+      "name": "Alan Fung",
+      "research_areas": "Sustainable and renewable energy systems and their smart control strategies towards Net-Zero Energy/Carbon Buildings and Communities with local transportation via electric vehicles (EVs) as part of the smart distributed electrical storage network. Focusing on the building integrated renewable energy and storage systems of hybrid solar photovoltaics/thermal (PVT) collectors, Insulated Concrete Form (ICF) based foundation wall energy storage, cold climate air source heat pump (ccASSHP) and ground source heat pump (GSHP) and their hybrid variants as building level systems. At the community level, model predictive control (MPC) and transitive control (TC), with the aid of Internet of Things/Information and Communication Technology (IoT/ICT) and Artificial Intelligence/Machine Learning (AI/ML), for low-density pure electric communities and 5th generation district heating and cooling (5GDHC) network equipped with ambient temperature loop and distributed heat pumps integrated with geo-exchange and seasonal borefield thermal storages (BTESs) for high density communities are the main focuses. "
+    },
+    {
+      "name": "Ziad Saghir",
+      "research_areas": "Interest in Energy storage and design of different cooling system. "
+    },
+    {
+      "name": "Daolun Chen",
+      "research_areas": "Dr. Chen's research involves advanced materials and key engineering materials, and their mechanical properties, deformation, fatigue, fracture, welding and joining for the lightweight structural applications in the automotive, aerospace, energy, and biomedical industries."
+    },
+    {
+      "name": "Saeed Zolfaghari",
+      "research_areas": "Operations management, loyalty reward programs, supply chain modeling and analysis,  simulation modelling and analysis, and applications of artificial intelligence."
+    },
+    {
+      "name": "Patrick Neumann",
+      "research_areas": "Engineered systems that don't consider the needs of humans will FAIL.  The Human Factors engineering lab develops design and decision support tools that help integrate human considerations into engineering design processes.  The HFE lab focusses on Healthcare and Supply Chain systems including Industry 5.0 technologies."
+    },
+    {
+      "name": "Habiba Bougherara",
+      "research_areas": "Nothing"
+    },
+    {
+      "name": "Don Oguamanam ",
+      "research_areas": "Nothing"
+    },
+    {
+      "name": "Ahmad Varvani-Farahani",
+      "research_areas": "Nothing"
+    },
+    {
+      "name": "Wahab Mohamed Ismail ",
+      "research_areas": "Nothing"
+    },
+    {
+      "name": "Xavier Fernando",
+      "research_areas": "Wireless communication, Vehicular communications and IoT systems  to meet future needs by applying latest Machine Learning and other signal processing algorithms. Wireless tracking, energy harvesting and communications for underground mines and tunnels."
+    },
+    {
+      "name": "Mehrab Mehrvar",
+      "research_areas": "Treatment of water and wastewater using combined advanced oxidation (UV based processes) and biological processes. Effect of climate change on the quality and quantity of water in aquifers. Design of photoreactors for water and wastewater treatment systesms."
+    },
+    {
+      "name": "Goetz Bramesfeld",
+      "research_areas": "Applied aerodynamics, flight vehicle design and analysis, small UAV and MAV configuration designs, rotary and fixed wing aerodynamics, motorless flight, flight dynamics"
+    },
+    {
+      "name": "Jeff Xi",
+      "research_areas": "Aerospace manufacturing automation including riveting and polishing, morphing mechanism design for morphing wings and reconfigurable cabins, bio-mechatronics for travel comfort modeling and control including sitting, light and noise.  "
+    },
+    {
+      "name": "Arnold Yuan",
+      "research_areas": "Infrastructure Asset Management\nRisk and Reliability in Engineering\nPublic-Private Partnerships"
+    },
+    {
+      "name": "Reza Samavi",
+      "research_areas": "My research lab is Trustworthy Artificial Intelligence Lab (TAILab.org) in Toronto Metropolitan University. My theoretical research focuses on secure machine learning and uncertainty quantification which plays a pivotal role in ensuring responsible AI deployment. The applied focus of my research is on safety-critical systems, such as health diagnosis and outcome prediction models, robotics, and self driving cars. "
+    },
+    {
+      "name": "Vadim Geurkov",
+      "research_areas": "Electronic systems are exposed to failures. It is important to detect faulty operation and possible restore the system. Our research area is focused on design-for-test and built-in self-test for digital and mixed-signal systems (including self-restoration of reconfigurable computing systems). "
+    },
+    {
+      "name": "Bilal Farooq",
+      "research_areas": "I work at the nexus of technology, policy, and behaviour related to transportation systems. My research develops sustainable solutions for the adoption of emerging transportation technologies to solve wicked problems faced by urban areas. I frequently collaborate with local municipalities, ministries of transportation, and companies like Uber to operationalize my research for large scale impact."
+    },
+    {
+      "name": "Kazem Fayazbakhsh",
+      "research_areas": "My research focus is on the complete cycle of 3D printing: design, analysis, manufacturing, quality inspection, and testing. I explore polymers and fiber reinforced composites made by fused filament fabrication (FFF) technique.  "
+    },
+    {
+      "name": "Marco Antoniades",
+      "research_areas": "My research centres on hardware aspects of wireless communications. I work with applied electromagnetics principles to design antennas and RF/microwave devices for communications, biomedical applications, wireless power transfer and radio-frequency identification."
+    },
+    {
+      "name": "Patrick Neumann",
+      "research_areas": "The Human Factors Engineering Lab develops and applies simulation tools to support the design of healthcare and supply chain systems that provide sustainable working conditions for employees and allow them to operate these systems at very high performance levels.  Safe, Fast, Effective."
+    }
+  ]
+}
